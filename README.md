@@ -12,3 +12,7 @@ Simply download the latest version of the intro engine and open it in scratch.
 
 ## Contributing
 Contributing is welcome! If you would like to make a major change, please open an issue first to discuss what you would like to change.
+
+## Credits
+- <a href="https://scratch.mit.edu/users/freecostumes/">FreeCostumes</a> for art
+- <a href="https://scratch.mit.edu/users/ashibara_art/">Ashibara_Art</a> for spline and arc code
