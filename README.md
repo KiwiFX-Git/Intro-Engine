@@ -6,6 +6,9 @@ This is my intro engine that I have created for scratch. It is FPSI and 100% pen
 
 ## 📝 Installation
 Simply download the latest version of the intro engine and open it in scratch.
+### Releases
+[Intro Engine v1.0.0](https://github.com/KiwiFX-Git/Intro-Engine/releases/download/Engine/Intro.Engine.v1.0.sb3)
+
 ### General Requirments
 - Scratch coding experience
 - A knowledge of pen (If not, then please read the tutorial included here.)
